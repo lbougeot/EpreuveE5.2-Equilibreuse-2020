@@ -2,13 +2,13 @@
 #define MCCULDAQ_H
 
 #include <QtGlobal>
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/uldaq.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/UlDaqDeviceManager.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/UlException.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/DioDevice.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/AoDevice.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/AiDevice.h"
-#include "/home/USERS/ELEVES/SNIR2019/lbougeot/projet QT/CommandeMoteur/includes/CtrDevice.h"
+#include "../includes/uldaq.h"
+#include "../includes/UlDaqDeviceManager.h"
+#include "../includes/UlException.h"
+#include "../includes/DioDevice.h"
+#include "../includes/AoDevice.h"
+#include "../includes/AiDevice.h"
+#include "../includes/CtrDevice.h"
 
 
 #define MAX_DEV_COUNT  100

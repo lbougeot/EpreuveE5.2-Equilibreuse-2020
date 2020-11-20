@@ -6,13 +6,130 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>312</width>
+    <height>151</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>WidgetUSB202</string>
   </property>
+  <widget class="QCheckBox" name="checkBox_DIO0">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>10</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO0</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO1">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO1</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>70</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO2</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO3">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>100</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO3</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO4">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>10</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO4</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO5">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>40</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO5</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO6">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>70</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO6</string>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBox_DIO7">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>100</y>
+     <width>83</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>DIO7</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>160</x>
+     <y>70</y>
+     <width>111</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Quitter</string>
+   </property>
+  </widget>
  </widget>
  <resources/>
  <connections/>
